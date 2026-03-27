@@ -14,7 +14,7 @@ This is my personal portfolio website built using React, Tailwind CSS, and Email
 - EmailJS
 
 ## Live Demo
-(Will be added after deployment)
+https://portfolio-eight-lyart-79.vercel.app/
 
 ## Author
 Preetika Nadar
