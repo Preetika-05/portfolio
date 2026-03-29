@@ -58,7 +58,7 @@ const Contact = () => {
     {
       name: "LinkedIn",
       icon: Linkedin,
-      url: "www.linkedin.com/in/preetika-nadar-140818258",
+      url: "https://www.linkedin.com/in/preetika-nadar-140818258/",
       color: "hover:text-blue-500",
     },
   {

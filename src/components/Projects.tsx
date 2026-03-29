@@ -14,7 +14,7 @@ const Projects = () => {
       image: project1,
       tools: ["Java", "XML", "Android Studio", "Firebase", "ML Kit"],
       duration: "Jan 2025 – Mar 2025",
-      githubLink: "#",
+      githubLink: "https://github.com/PreetikaPreethi/Handwriting_recognition",
     },
     {
       title: "Events Hub",
@@ -22,7 +22,7 @@ const Projects = () => {
       image: project2,
       tools: ["Java", "XML", "Firebase Realtime Database", "Firebase Authentication", "Google Maps API"],
       duration: "Jul 2024 – Dec 2024",
-      githubLink: "#",
+      githubLink: "https://github.com/PreetikaPreethi/sports-/tree/main/Backup_sports",
     },
   ];
 
